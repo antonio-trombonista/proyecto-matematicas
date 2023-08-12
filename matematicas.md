@@ -1,6 +1,8 @@
 <<<<<<< Updated upstream
 # Nuestro cliente es el mejor
 
+Estos son unos cambios que se aplicarán con rebase
+
 Esto es un fichero muy chulo.
 
 hola, esto es un fichero de lectura para nuestro reposiytorio:
