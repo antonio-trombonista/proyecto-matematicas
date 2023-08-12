@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 # Nuestro cliente es el mejor
 
-Estos son unos cambios que se aplicarán con rebase
+Estos son unos cambios que se aplicarán con rebase y han sido exitosos
 
 Esto es un fichero muy chulo.
 
