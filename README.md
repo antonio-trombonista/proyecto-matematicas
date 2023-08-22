@@ -26,3 +26,11 @@ Por ello nos centraremos en:
 * Creación de una Blockchain local con el uso de Ganache con la intefaz Gráfica de Usuario (GUI) de Ganache y con el uso de la lína de comandos (cli).
 
 * Aprenderás a desplegar tus contratos en la Blockchain Binance Smart Chain (BSC).
+
+## ¿a quien le interesa el curso?
+
+- Iniciados en Blockchain que quieren mejorar su portfolio con nuevos proyectos
+- Apasionados en la tecnología que quieren ganar experiencia con la programación en Blockchain.
+- Enpresarios y dueon visionarios que quieren subir sus empresas de categoría de nivel con el poder del Blockchain.
+
+Nos vemos en clase!
