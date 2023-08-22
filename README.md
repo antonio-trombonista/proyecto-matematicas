@@ -13,4 +13,8 @@ Curso enfocado a la creación de DApps con React y Binance Smart Chain (BDS). Ad
 *¿Quieres crear aplicaciones Distribuida (DApps) desde cero?
 
 
-*Sí, entonces este curos es para ti.
+*Sí, entonces este curso es para ti.
+
+## Descripción del curso
+
+El curso ha sido diseñado para cubrir los princiios prácticos hasta los más avanzados de la tecnología Blockchain, empezando por las herraientas de desarrollo y siguiendo por la aplicación de estas herramientos en un entorno de desarrolo real.
